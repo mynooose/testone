@@ -18,5 +18,5 @@ app.post("/", function (req,res) {
 
 
 app.listen(3000, function () {
-  console.log("Server is runnig  at Port 3000.");
+  console.log("Server is runnig  at Port 3000    .");
 })
